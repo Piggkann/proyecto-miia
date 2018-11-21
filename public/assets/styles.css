@@ -1,0 +1,42 @@
+* {
+	padding: 0;
+  	margin: 0;
+}
+
+.logo {
+	display: inline-block;
+	width: 85px;
+	padding-top: 5px;
+}
+
+.logo-img {
+	width: 100%;
+}
+
+header {	
+	display: flex;
+	justify-content: space-around;
+	align-items: ;
+	background-color: #6F6B9E;
+	height: 90px;
+}
+
+.mainmenu {
+	display: flex;
+	/*justify-content: flex-start;*/
+	align-items: right;
+	padding left: 50px;
+	padding-top: 15px;
+	height: 20px;
+	font-family: sans-serif;
+	font-size: 13px;
+}
+
+a {
+	margin: 10px 60px;
+	padding-top: 20px
+}
+
+.lupa {
+	height: 40px;
+}
